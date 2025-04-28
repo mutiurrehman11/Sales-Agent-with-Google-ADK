@@ -1,0 +1,5 @@
+google-cloud-dialogflow>=2.0.0
+python-dateutil>=2.8.1
+pytest>=6.0.0
+Faker>=8.0.0
+python-dotenv>=0.15.0

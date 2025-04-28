@@ -1,0 +1,36 @@
+lead_id,name,age,country,interest,status,last_updated
+1,Lead-1,,,,declined,2025-04-29T01:54:06.700770
+2,Lead-2,,,,declined,2025-04-29T01:54:06.720486
+3,Lead-3,45,canada,ai tools,secured,2025-04-29T01:54:31.785964
+4,Lead-4,30,usa,saas,secured,2025-04-29T01:54:08.227671
+5,Lead-5,30,usa,saas,secured,2025-04-29T01:54:08.257212
+6,Lead-6,30,usa,saas,secured,2025-04-29T01:54:08.285695
+7,Lead-7,45,canada,ai tools,secured,2025-04-29T01:54:31.900897
+8,Lead-8,45,canada,ai tools,secured,2025-04-29T01:54:31.933660
+9,Lead-9,,,,declined,2025-04-29T01:54:06.874033
+10,Lead-10,35,uk,consulting,secured,2025-04-29T01:54:10.717395
+11,Lead-11,35,uk,consulting,secured,2025-04-29T01:54:10.753759
+12,Lead-12,28,,,active,2025-04-29T01:54:07.476257
+13,Lead-13,30,usa,saas,secured,2025-04-29T01:54:08.324765
+14,Lead-14,45,canada,ai tools,secured,2025-04-29T01:54:32.009929
+15,Lead-15,30,usa,saas,secured,2025-04-29T01:54:08.359095
+16,Lead-16,28,,,active,2025-04-29T01:54:07.560840
+17,Lead-17,30,usa,saas,secured,2025-04-29T01:54:08.392540
+18,Lead-18,30,usa,saas,secured,2025-04-29T01:54:08.421295
+19,Lead-19,30,usa,saas,secured,2025-04-29T01:54:08.446400
+20,Lead-20,35,uk,consulting,secured,2025-04-29T01:54:10.829865
+21,Lead-21,45,canada,ai tools,secured,2025-04-29T01:54:32.189371
+22,Lead-22,35,uk,consulting,secured,2025-04-29T01:54:10.864615
+23,Lead-23,45,canada,ai tools,secured,2025-04-29T01:54:32.235347
+24,Lead-24,35,uk,consulting,secured,2025-04-29T01:54:11.000253
+25,Lead-25,,,,declined,2025-04-29T01:54:07.164724
+26,Lead-26,45,canada,ai tools,secured,2025-04-29T01:54:32.259293
+27,Lead-27,35,uk,consulting,secured,2025-04-29T01:54:11.037083
+28,Lead-28,30,usa,saas,secured,2025-04-29T01:54:08.471367
+29,Lead-29,,,,declined,2025-04-29T01:54:07.255447
+30,Lead-30,35,uk,consulting,secured,2025-04-29T01:54:11.091062
+31,Lead-31,35,uk,consulting,secured,2025-04-29T01:54:11.159734
+32,Lead-32,30,usa,saas,secured,2025-04-29T01:54:08.498188
+33,Lead-33,,,,declined,2025-04-29T01:54:07.316282
+34,Lead-34,45,canada,ai tools,secured,2025-04-29T01:54:32.383826
+35,Lead-35,,,,declined,2025-04-29T01:54:07.369385
