@@ -6,3 +6,7 @@ Conversational sales agent using Google's Agent Development Kit (ADK) in Python.
  - run pip install -r requirements.txt
  - Run concurrent_leads.py
 
+# Explantion Video Link
+
+https://drive.google.com/drive/folders/14Ha8cwQiQihnhRc8BmS81Uf5PQ0PLLof?usp=sharing
+
